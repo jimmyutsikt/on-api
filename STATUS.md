@@ -18,7 +18,7 @@ To update your company's status, or if your company is not on the list, send a p
 |IP-Only| | | | | | | | | |
 |Itux| |Q1 2022|Q1 2022| | | | | | |
 |Lunet| | | | | | | | | |
-|Utsikt| Q3 2021 | Q3 2021 | Q3 2021 | Q3 2021 | Q3 2021 | Q3 2021 | Q3 2021 | Q3 2021 | Q3 2021 |
+|Utsikt| Yes | Yes | Yes | No | Partly | No | No | No | No |
 |Open Infra| Yes | Yes  | Yes  | | | | | Yes  | |
 |Open Universe| | | | | | | | | |
 |Skellefteå Kraft| | | | | | | | | |
